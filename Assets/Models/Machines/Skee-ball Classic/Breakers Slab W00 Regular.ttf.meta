@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: d56d16156d4e82a4bb3d5305039fe6b0
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - BreakersSlabW00-Regular
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 4a2f5d56fc189c8488be1190568f187b, type: 3}
+  - {fileID: 12800000, guid: 1e84bed6d6ca9b0479ebf9f57f14cb43, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cf67f2eaa8532e245a50b8dc675aaac4, type: 3}
+  m_Name: Neon Sign
+  m_EditorClassIdentifier: 
+  _name: Neon Sign
+  _category: 0
+  _description: 
+  _tickets: 200
+  _sprite: {fileID: 21300000, guid: 6a0c77e84111fa841b9fb3adb66a1a07, type: 3}

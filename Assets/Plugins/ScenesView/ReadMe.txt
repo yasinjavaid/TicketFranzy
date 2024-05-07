@@ -1,0 +1,1 @@
+Open window from Tools > Scene Switcher or by hot key Shift + s

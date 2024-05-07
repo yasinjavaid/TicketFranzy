@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 3ba698fb8ba8e3041b416475c8b99945
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Cocola
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 8592f20b72b65b84c96ca5d3b979cc9e, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

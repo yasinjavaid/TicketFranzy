@@ -1,0 +1,19 @@
+PlayerRoomA_MAT:
+Bed
+Door (Not in Unity)
+Single Locker
+Breaker
+
+PlayerRoomB_MAT:
+Horizontal pipes 1 and 2
+Vertical pipes 1 and 2
+Ladder
+Light Fixture
+Mop
+Sign
+
+PlayerRoomC_MAT:
+Bucket
+Jar
+Large and small box
+Shelf

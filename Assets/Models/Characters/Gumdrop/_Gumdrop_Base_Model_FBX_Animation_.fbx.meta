@@ -1,0 +1,198 @@
+fileFormatVersion: 2
+guid: d825abb8b4ef2491da8069df89067f65
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: 5188858239019973849
+    second: MC_Gumdrop_Walk
+  - first:
+      74: -8200740545733605795
+    second: MC_Gumdrop_Walk_Looking_Around
+  - first:
+      74: 8534740693942085646
+    second: MC_Gumdrop_Idle
+  - first:
+      74: -8336968555109734617
+    second: MC_Gumdrop_Talking_Happy
+  - first:
+      74: 1833479589842226545
+    second: MC_Gumdrop_Playing Arcade Winning
+  - first:
+      74: 5131853413956794098
+    second: MC_Gumdrop_Hand Open Loop
+  - first:
+      74: 5783484411932896760
+    second: MC_Gumdrop_Hand Close Loop
+  - first:
+      74: 3505960777853353257
+    second: MC_Gumdrop_Loop Open/Close
+  - first:
+      74: 4352337821223921808
+    second: MC_Gumdrop_Point
+  - first:
+      74: -6893489359332188113
+    second: MC_Gumdrop_Fist Bump
+  - first:
+      74: -700985959650539711
+    second: MC_Gumdrop_Jazz Hands
+  - first:
+      74: -4441931915611418918
+    second: MC_Gumdrop_Clapping Hands
+  - first:
+      74: 9152302503067199029
+    second: MC_Gumdrop_Thumbs up
+  - first:
+      74: -8001838356471222929
+    second: MC_Gumdrop_Stop hand
+  - first:
+      74: 1997406531672709327
+    second: MC_Gumdrop_Thumbs down
+  - first:
+      74: 8378099950885839532
+    second: MC_Gumdrop_Hand on heart
+  - first:
+      74: -7788676118745058953
+    second: MC_Gumdrop_Cheering 1
+  - first:
+      74: -4222029665403541128
+    second: MC_Gumdrop_Cheering 2
+  - first:
+      74: -8899398148146187151
+    second: MC_Gumdrop_Cheering 3
+  - first:
+      74: 2503892887863880430
+    second: MC_Gumdrop_Booing 1
+  - first:
+      74: 4633962352660584041
+    second: MC_Gumdrop_Booing 2
+  - first:
+      74: 3308122176847371985
+    second: MC_Gumdrop_Booing 3
+  - first:
+      74: 3420044134348380262
+    second: MC_Gumdrop_Talking Sad
+  - first:
+      74: -4778542044692937788
+    second: MC_Gumdrop_Talking Angry
+  - first:
+      74: -8092968137356052606
+    second: MC_Gumdrop_Playing Arcade Losing
+  - first:
+      74: -321961016581302074
+    second: MC_Gumdrop_Playing Arcade Neutral
+  - first:
+      74: -6898513276811480230
+    second: MC_Gumdrop_Playing Arcade Idle
+  - first:
+      74: 1071375894930917816
+    second: MC_Gumdrop_Walk_Normal
+  - first:
+      74: 1408659387265789663
+    second: MC_Gumdrop_Naruto_Run
+  - first:
+      74: -4720830483219073113
+    second: MC_Gumdrop_Confident_Walk
+  - first:
+      74: 9192929193718715769
+    second: MC_Gumdrop_Slumped_Trudge_Walk
+  - first:
+      74: -4449570001110052373
+    second: MC_Gumdrop_Carefree_Skipping
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

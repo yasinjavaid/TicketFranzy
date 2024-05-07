@@ -1,0 +1,201 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &1976841787004030308
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4468172901623572257, guid: 2d2ad2e2ce0c4004db28d2eeb482d37d, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4468172901623572257, guid: 2d2ad2e2ce0c4004db28d2eeb482d37d, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 3.62
+      objectReference: {fileID: 0}
+    - target: {fileID: 4468172903062825940, guid: 2d2ad2e2ce0c4004db28d2eeb482d37d, type: 3}
+      propertyPath: m_Name
+      value: ArcadeMachine_SkeeballClassic
+      objectReference: {fileID: 0}
+    - target: {fileID: 4468172903062825941, guid: 2d2ad2e2ce0c4004db28d2eeb482d37d, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4468172903062825941, guid: 2d2ad2e2ce0c4004db28d2eeb482d37d, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4468172903062825941, guid: 2d2ad2e2ce0c4004db28d2eeb482d37d, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4468172903062825941, guid: 2d2ad2e2ce0c4004db28d2eeb482d37d, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4468172903062825941, guid: 2d2ad2e2ce0c4004db28d2eeb482d37d, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4468172903062825941, guid: 2d2ad2e2ce0c4004db28d2eeb482d37d, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4468172903062825941, guid: 2d2ad2e2ce0c4004db28d2eeb482d37d, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4468172903062825941, guid: 2d2ad2e2ce0c4004db28d2eeb482d37d, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4468172903062825941, guid: 2d2ad2e2ce0c4004db28d2eeb482d37d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4468172903062825941, guid: 2d2ad2e2ce0c4004db28d2eeb482d37d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4468172903062825941, guid: 2d2ad2e2ce0c4004db28d2eeb482d37d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4468172903062825946, guid: 2d2ad2e2ce0c4004db28d2eeb482d37d, type: 3}
+      propertyPath: _name
+      value: Skeeball
+      objectReference: {fileID: 0}
+    - target: {fileID: 4468172903062825946, guid: 2d2ad2e2ce0c4004db28d2eeb482d37d, type: 3}
+      propertyPath: gameSceneName
+      value: SkeeBall
+      objectReference: {fileID: 0}
+    - target: {fileID: 6678866692391744714, guid: 2d2ad2e2ce0c4004db28d2eeb482d37d, type: 3}
+      propertyPath: m_Size.y
+      value: 1.1204733
+      objectReference: {fileID: 0}
+    - target: {fileID: 6678866692391744714, guid: 2d2ad2e2ce0c4004db28d2eeb482d37d, type: 3}
+      propertyPath: m_Size.z
+      value: 1.5689015
+      objectReference: {fileID: 0}
+    - target: {fileID: 6678866692391744714, guid: 2d2ad2e2ce0c4004db28d2eeb482d37d, type: 3}
+      propertyPath: m_Center.y
+      value: 0.060236633
+      objectReference: {fileID: 0}
+    - target: {fileID: 6678866692391744714, guid: 2d2ad2e2ce0c4004db28d2eeb482d37d, type: 3}
+      propertyPath: m_Center.z
+      value: 0.28445077
+      objectReference: {fileID: 0}
+    - target: {fileID: 7939457358956192652, guid: 2d2ad2e2ce0c4004db28d2eeb482d37d, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 3.62
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2d2ad2e2ce0c4004db28d2eeb482d37d, type: 3}
+--- !u!4 &2696816928669034161 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4468172903062825941, guid: 2d2ad2e2ce0c4004db28d2eeb482d37d, type: 3}
+  m_PrefabInstance: {fileID: 1976841787004030308}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7767632674770177470
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 2696816928669034161}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 3aceeb25e85d48544a845b2f3ad36dae, type: 3}
+      propertyPath: m_RootOrder
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 3aceeb25e85d48544a845b2f3ad36dae, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 3aceeb25e85d48544a845b2f3ad36dae, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 3aceeb25e85d48544a845b2f3ad36dae, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 1.16
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 3aceeb25e85d48544a845b2f3ad36dae, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 3aceeb25e85d48544a845b2f3ad36dae, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 3aceeb25e85d48544a845b2f3ad36dae, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 3aceeb25e85d48544a845b2f3ad36dae, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 3aceeb25e85d48544a845b2f3ad36dae, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 3aceeb25e85d48544a845b2f3ad36dae, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 3aceeb25e85d48544a845b2f3ad36dae, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -6592538870302914499, guid: 3aceeb25e85d48544a845b2f3ad36dae, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: -5722999127020324255, guid: 3aceeb25e85d48544a845b2f3ad36dae, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: -5201272782888246466, guid: 3aceeb25e85d48544a845b2f3ad36dae, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: -4698933034992570034, guid: 3aceeb25e85d48544a845b2f3ad36dae, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: -4437540064162325147, guid: 3aceeb25e85d48544a845b2f3ad36dae, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: -3234953628855729370, guid: 3aceeb25e85d48544a845b2f3ad36dae, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: -435062366054685116, guid: 3aceeb25e85d48544a845b2f3ad36dae, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 3aceeb25e85d48544a845b2f3ad36dae, type: 3}
+      propertyPath: m_Name
+      value: SkeeballClassic_Model
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 3aceeb25e85d48544a845b2f3ad36dae, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 2311086185943985336, guid: 3aceeb25e85d48544a845b2f3ad36dae, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 4532817431957457089, guid: 3aceeb25e85d48544a845b2f3ad36dae, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 5652790352795213574, guid: 3aceeb25e85d48544a845b2f3ad36dae, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 3aceeb25e85d48544a845b2f3ad36dae, type: 3}

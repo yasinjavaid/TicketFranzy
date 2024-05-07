@@ -1,0 +1,147 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-4789636092416868619
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 4
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: OverheadLight 4
+  m_Shader: {fileID: -6465566751694194690, guid: 65224a6965b91fa419228240aa2fed20, type: 3}
+  m_ShaderKeywords: _EMISSION _RECEIVE_SHADOWS_OFF
+  m_LightmapFlags: 2
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses:
+  - SHADOWCASTER
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BaseMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SpecGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_2a842114881f4ad59a926fcca1a2f0c1: 0.33
+    - Vector1_2aa3b57f55f04369bb4b2561f187f5c0: 1
+    - Vector1_2d9749aae6584470830e9a9bd6f92bc0: 1
+    - Vector1_36885aaf5bf84ce7b73a01e8d578e69d: 0.06
+    - Vector1_4da30e358e264db89b53244137333ba5: 2.16
+    - Vector1_7dfdb598b5aa497d838e74b2c5fd01c9: 1
+    - Vector1_84db2d91cc874ac5a6c4b6667cd436b7: 0.23
+    - Vector1_8652ac1ca5e24d2ba52f2fd0c9a8cafe: 3.69
+    - Vector1_88802c73243e49ff9a6bf7eef4db5e2b: 0.07
+    - Vector1_8fb8ddb22647448d9db8b44a9867a30e: 5.71
+    - Vector1_a54cb3a9e05140fcac12b10fc63645e4: 0.9
+    - Vector1_c34a0af2ebe9404d865b7cd79a477053: 0.31
+    - Vector1_cca35f03061e480b8c185e3caaa9da1a: 0.4
+    - Vector1_d3cc73aefd974c8189bad0c536991ed6: 1.73
+    - Vector1_d4c7eabda1ca4db996684e9be7d6ccbd: 0
+    - Vector1_dd622f0d2cbf4b019ccb47dfa26b2450: 2.36
+    - Vector1_de460b0fc3f84880bb4b1be853c2c8ee: 1.09
+    - _AlphaClip: 0
+    - _Blend: 0
+    - _BumpScale: 1
+    - _ClearCoatMask: 0
+    - _ClearCoatSmoothness: 0
+    - _Cull: 2
+    - _Cutoff: 0.5
+    - _DetailAlbedoMapScale: 1
+    - _DetailNormalMapScale: 1
+    - _DstBlend: 10
+    - _EnvironmentReflections: 1
+    - _GlossMapScale: 0
+    - _Glossiness: 0
+    - _GlossyReflections: 0
+    - _Metallic: 0
+    - _OcclusionStrength: 1
+    - _Parallax: 0.005
+    - _QueueOffset: 0
+    - _ReceiveShadows: 0
+    - _SampleGI: 0
+    - _Smoothness: 0.5
+    - _SmoothnessTextureChannel: 0
+    - _SpecularHighlights: 1
+    - _SrcBlend: 5
+    - _Surface: 1
+    - _WorkflowMode: 1
+    - _ZWrite: 0
+    m_Colors:
+    - Color_95013334056f4907b159fda254cbffaa: {r: 2.270603, g: 0.3090873, b: 0.5230708, a: 1}
+    - Vector3_2ead4314c73643859ab66e26552e4d2f: {r: 0, g: -0.23, b: 0, a: 0}
+    - Vector3_9843ea525c7e40b2b08aee990b8329a3: {r: 0, g: 1.54, b: 0, a: 0}
+    - _BaseColor: {r: 1, g: 1, b: 1, a: 0.34117648}
+    - _BaseMap: {r: 1, g: 1, b: 1, a: 0.57254905}
+    - _Color: {r: 1, g: 1, b: 1, a: 0.5254902}
+    - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
+    - _EmissionMap: {r: 157.5865, g: 157.5865, b: 157.5865, a: 0.54509807}
+    - _SpecColor: {r: 0.2, g: 0.2, b: 0.2, a: 1}
+  m_BuildTextureStacks: []
